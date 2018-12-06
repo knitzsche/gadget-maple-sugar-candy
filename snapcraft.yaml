@@ -1,0 +1,13 @@
+name: gadget-maple-sugar-candy
+version: '0.1'
+summary: gadget snap exercise
+description: |
+  Not much of a description!
+grade: devel
+confinement: strict
+type: gadget
+
+parts:
+  my-part:
+    # See 'snapcraft plugins'
+    plugin: nil
